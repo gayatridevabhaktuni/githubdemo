@@ -1,2 +1,8 @@
 # githubdemo
-hi this is gayatri
+* list item
+* another list
+  * hi
+    * how are you? 
+  * hello
+* hope u r doing good 
+--------
